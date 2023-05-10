@@ -22,7 +22,7 @@ The Following Setup is tested and it is working:
  ```
 
 ## Pre-trained models
-* All the pre-trained models we used are avilable [here](https://drive.google.com/drive/folders/1UaesWFejJKQ4PhAx2xK6Av5_b1U4vl9j?usp=share_link)
+* The resnet34 models we used on ImageNet are avilable [here](https://drive.google.com/drive/folders/1UaesWFejJKQ4PhAx2xK6Av5_b1U4vl9j?usp=share_link)
 
 ## Citation
 Reference [paper](https://openreview.net/pdf?id=zRkz4duLKp).
